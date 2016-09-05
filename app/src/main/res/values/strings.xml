@@ -10,7 +10,7 @@
 
     <!--Quiz questions-->
 
-    <!--Question-->
+    <!--Question 1-->
     <string name="question_original_owners" type="name">
         Who were the original owners of Pope Tech?
     </string>
@@ -19,7 +19,7 @@
     <string name="answer_John">John</string>
     <string name="answer_James">James</string>
 
-    <!--Question-->
+    <!--Question 2-->
     <string name="question_first_employee">
         Which current employees are not remote?
     </string>
@@ -28,14 +28,14 @@
     <string name="answer_Matt">Matt</string>
     <string name="answer_Megan">Megan</string>
 
-    <!--Question-->
+    <!--Question 3-->
     <string name="question_values">
         Pope Tech is based on the values of learning, teaching, and _______.
     </string>
     <string name="answer_Serving">serving</string>
     <string name="values_hint">Fill in the blank</string>
 
-    <!--Question-->
+    <!--Question 4-->
     <string name="question_company_name">
         What is the legal name of Pope Tech?
     </string>
