@@ -1,0 +1,50 @@
+<resources>
+    <!--Top meta data-->
+    <string name="app_name">
+        Pope Tech Quiz
+    </string>
+
+    <string name="quiz_description">
+        Test Your knowledge of Pope Tech
+    </string>
+
+    <!--Quiz questions-->
+
+    <!--Question-->
+    <string name="question_original_owners" type="name">
+        Who were the original owners of Pope Tech?
+    </string>
+    <string name="answer_Larry">Larry</string>
+    <string name="answer_Jay">Jay</string>
+    <string name="answer_John">John</string>
+    <string name="answer_James">James</string>
+
+    <!--Question-->
+    <string name="question_first_employee">
+        Which current employees are not remote?
+    </string>
+    <string name="answer_Chris">Chris</string>
+    <string name="answer_Nate">Nate</string>
+    <string name="answer_Matt">Matt</string>
+    <string name="answer_Megan">Megan</string>
+
+    <!--Question-->
+    <string name="question_values">
+        Pope Tech is based on the values of Learning, Teaching, and _______.
+    </string>
+    <string name="answer_Serving">serving</string>
+    <string name="values_hint">Fill in the blank</string>
+
+    <!--Question-->
+    <string name="question_company_name">
+        What is the legal name of Pope Tech?
+    </string>
+    <string name="answer_Pope_Tech">Pope Tech</string>
+    <string name="answer_Loss_Prevention">Loss Prevention DVR</string>
+    <string name="answer_Pope_IT">Pope IT</string>
+
+    <!--Button-->
+    <string name="submit_text">Submit Answers</string>
+
+
+</resources>
