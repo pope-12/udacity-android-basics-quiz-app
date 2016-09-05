@@ -30,7 +30,7 @@
 
     <!--Question-->
     <string name="question_values">
-        Pope Tech is based on the values of Learning, Teaching, and _______.
+        Pope Tech is based on the values of learning, teaching, and _______.
     </string>
     <string name="answer_Serving">serving</string>
     <string name="values_hint">Fill in the blank</string>
